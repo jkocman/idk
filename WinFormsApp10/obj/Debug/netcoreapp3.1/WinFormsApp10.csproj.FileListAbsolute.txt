@@ -1,0 +1,15 @@
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\bin\Debug\netcoreapp3.1\WinFormsApp10.exe
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\bin\Debug\netcoreapp3.1\WinFormsApp10.deps.json
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\bin\Debug\netcoreapp3.1\WinFormsApp10.runtimeconfig.json
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\bin\Debug\netcoreapp3.1\WinFormsApp10.runtimeconfig.dev.json
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\bin\Debug\netcoreapp3.1\WinFormsApp10.dll
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\bin\Debug\netcoreapp3.1\WinFormsApp10.pdb
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.csprojAssemblyReference.cache
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.Form1.resources
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.csproj.GenerateResource.cache
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.AssemblyInfoInputs.cache
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.AssemblyInfo.cs
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.dll
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.pdb
+C:\Users\Kubajda\source\repos\WinFormsApp10\WinFormsApp10\obj\Debug\netcoreapp3.1\WinFormsApp10.genruntimeconfig.cache
